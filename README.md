@@ -17,32 +17,32 @@ Platforms:
 [![AWS](https://img.shields.io/badge/-AWS-%23c9d1d9?logo=amazonaws&logoColor=black)](https://aws.amazon.com/)
 
 Langages:
-[![Go](https://img.shields.io/badge/-Go-dadada?logo=go&logoColor=00ADD8)](https://go.dev/)
-[![Java](https://img.shields.io/badge/-Java-dadada?logo=coffeescript&logoColor=blue)](https://www.oracle.com/java/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-dadada?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-dadada?logo=typeScript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/-Python-dadada?logo=python&logoColor=3776AB)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/-C++-dadada?logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Java](https://img.shields.io/badge/-Java-white?logo=coffeescript&logoColor=blue)](https://www.oracle.com/java/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-white?logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?logo=typeScript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/-Python-white?logo=python&logoColor=3776AB)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-white?logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
 [![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnubash&logoColor=black)](https://tiswww.case.edu/php/chet/bash/bashtop.html)
 
 Microservice architecture:
-[![Docker](https://img.shields.io/badge/-Docker-dadada?logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-dadada?logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
-[![Envoy](https://img.shields.io/badge/-Envoy-dadada?logo=envoyproxy&logoColor=AC6199)](https://www.envoyproxy.io/)
+[![Docker](https://img.shields.io/badge/-Docker-white?logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
+[![Envoy](https://img.shields.io/badge/-Envoy-white?logo=envoyproxy&logoColor=AC6199)](https://www.envoyproxy.io/)
 
 Monitoring:
-[![Dynatrace](https://img.shields.io/badge/-Dynatrace-dadada?logo=dynatrace&logoColor=1496FF)](https://www.dynatrace.com/)
-[![NewRelic](https://img.shields.io/badge/-NewRelic-dadada?logo=newrelic&logoColor=8fce00)](https://newrelic.com/)
-[![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-dadada?logo=opentelemetry&logoColor=000000)](https://opentelemetry.io/)
-[![Kibana](https://img.shields.io/badge/-Kibana-dadada?logo=kibana&logoColor=005571)](https://www.elastic.co/kibana)
-[![PagerDuty](https://img.shields.io/badge/-PagerDuty-dadada?logo=pagerduty&logoColor=06AC38)](https://www.pagerduty.com/)
+[![Dynatrace](https://img.shields.io/badge/-Dynatrace-white?logo=dynatrace&logoColor=1496FF)](https://www.dynatrace.com/)
+[![NewRelic](https://img.shields.io/badge/-NewRelic-white?logo=newrelic&logoColor=8fce00)](https://newrelic.com/)
+[![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-white?logo=opentelemetry&logoColor=000000)](https://opentelemetry.io/)
+[![Kibana](https://img.shields.io/badge/-Kibana-white?logo=kibana&logoColor=005571)](https://www.elastic.co/kibana)
+[![PagerDuty](https://img.shields.io/badge/-PagerDuty-white?logo=pagerduty&logoColor=06AC38)](https://www.pagerduty.com/)
 
 Web:
-[![Javascript](https://img.shields.io/badge/-Javascript-dadada?logo=javascript&logoColor=e69138)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML-dadada?logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-dadada?logo=css&logoColor=663399)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/-React-dadada?logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/-Vite-dadada?logo=vite&logoColor=9135FF)](https://vite.dev/)
+[![Javascript](https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=e69138)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-white?logo=css&logoColor=663399)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/-Vite-white?logo=vite&logoColor=9135FF)](https://vite.dev/)
 
 
 <!--
